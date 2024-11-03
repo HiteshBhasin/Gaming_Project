@@ -1,12 +1,3 @@
 {
-    "sqltools.connections": [
-        {
-            "previewLimit": 50,
-            "driver": "CloudSQL-PostgreSQL",
-            "name": "Postgres",
-            "instanceConnectionName": "postgresql://postgres_01_qs0r_user:JgdU6SAUPTEhBiutAZooxUNTrODaioPd@dpg-csjqh05svqrc73eve7tg-a.oregon-postgres.render.com/postgres_01_qs0r",
-            "database": "postgres_01_qs0r",
-            "username": "postgres_01_qs0r_user"
-        }
-    ]
+    "sqltools.connections": []
 }
