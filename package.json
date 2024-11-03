@@ -3,5 +3,16 @@
     "express": "^4.21.1",
     "react": "^18.3.1",
     "tailwind": "^4.0.0"
-  }
+  },
+  "name": "gaming_project",
+  "version": "1.0.0",
+  "description": "One site with all the resources",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
 }
